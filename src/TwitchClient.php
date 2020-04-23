@@ -27,7 +27,7 @@ class TwitchClient extends OAuth2
             throw new \RuntimeException('Unable to init user attributes due to unexpected response: ' . Json::encode($response));
         }
 
-        return $response['data'];
+        return $response['data'][0];
     }
 
     /**
