@@ -15,13 +15,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require pa3py6aka/yii2-twitch-authclient "*"
+php composer.phar require pa3py6aka/yii2-twitch-authclient "^1.0"
 ```
 
 or add
 
 ```json
-"pa3py6aka/yii2-twitch-authclient": "*"
+"pa3py6aka/yii2-twitch-authclient": "^1.0"
 ```
 
 to the `require` section of your composer.json.
