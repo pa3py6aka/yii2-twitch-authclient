@@ -28,7 +28,7 @@ to the `require` section of your composer.json.
 
 ## Usage
 
-You must read the yii2-authclient [docs](https://github.com/yiisoft/yii2/blob/master/docs/guide/security-auth-clients.md)
+You must read the yii2-authclient [docs](https://github.com/yiisoft/yii2-authclient/blob/master/docs/guide/README.md)
 
 Register your application [on Twitch developer site](https://dev.twitch.tv/dashboard/apps/create)
 
